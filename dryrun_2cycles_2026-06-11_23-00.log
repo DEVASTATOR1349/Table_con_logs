@@ -1,0 +1,19 @@
+2026-06-11 22:59:54,308 [WARNING] DRY_RUN is ON — no writes will reach the sheets. Set TOPOL_DRY_RUN=0 to enable writes.
+2026-06-11 22:59:54,308 [INFO] ==================================================
+2026-06-11 22:59:54,308 [INFO] TOPOL cycle: 2026-06-11T22:59:54.308380
+2026-06-11 22:59:54,308 [WARNING] DRY_RUN ON — writes are simulated only.
+2026-06-11 23:00:03,639 [INFO]   Step 2: 25 skipped (already processed)
+2026-06-11 23:00:10,301 [INFO]   Step 3: 27 skipped (already processed)
+2026-06-11 23:00:14,343 [INFO]   Step 4: 25 skipped (already processed)
+2026-06-11 23:00:19,248 [INFO]   Step 5: 21 skipped (already processed)
+
+===SEPARATOR===
+2026-06-11 23:02:35,181 [WARNING] DRY_RUN is ON — no writes will reach the sheets. Set TOPOL_DRY_RUN=0 to enable writes.
+2026-06-11 23:02:35,182 [INFO] ==================================================
+2026-06-11 23:02:35,182 [INFO] TOPOL cycle: 2026-06-11T23:02:35.182060
+2026-06-11 23:02:35,182 [WARNING] DRY_RUN ON — writes are simulated only.
+2026-06-11 23:02:44,318 [INFO]   Step 2: 25 skipped (already processed)
+2026-06-11 23:02:54,310 [INFO]   Step 3: 27 skipped (already processed)
+2026-06-11 23:03:02,743 [INFO]   Step 4: 25 skipped (already processed)
+2026-06-11 23:03:06,672 [INFO]   Step 5: 21 skipped (already processed)
+
